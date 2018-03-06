@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TrianguloJava
+comment0.text=\r\n\ Autor\ h\ g\u00F3n\r\n
+comment1.params=primer\ segundo\ tercer
+comment1.target=TrianguloJava(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ area()
+comment3.params=
+comment3.target=double\ perimetro()
+numComments=4
